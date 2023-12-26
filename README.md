@@ -65,6 +65,7 @@ public class HelloController {
 
 ## Архитектура
 Диаграмма классов:
+
  ![image](https://github.com/StephanKomov/java_task01/blob/master/2.jpg)
 
 
